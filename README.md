@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Priyanshi Negi</h1>
+<h4 align="center">✨ Aspiring Data Analyst ✨</h4>
 
 ## 💫 About Me:
 
