@@ -15,17 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Priyanshi Negi</h1>
+<!--
 <h4 align="center">✨ Aspiring Data Analyst ✨</h4>
+-->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1000&color=AE24BD&center=true&width=435&lines=Aspiring+Data+Analyst+%E2%9C%A8;Embracing+challenges+as+opportunities+%F0%9F%95%8A%EF%B8%8F;Always+a+learner+%F0%9F%92%BB;Dedicated+to+continuous+growth+%F0%9F%93%88" alt="Typing SVG" /></a>
+</p>
 
-## 💫 About Me:
+<!-- ## 💫 About Me: -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me:
 
-- 👩‍🎓 I'm an undergraduate at SRMIST, currently pursuing CSE with specialization in Big Data Analytics
+<!--
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
+-->
+<img align="right" alt="Coder GIF" height=150 width=210 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
+
+- 👩‍🎓 I'm a "CSE with specialization in Big Data Analytics" undergraduate at SRMIST
 
 - 🔭 I’m currently working on **Alexa Skills**
 
 - 🌱 I’m currently learning **Tableau**
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 👯 I’m looking to collaborate on **Data Science projects**
+
 <!--
 - 📫 How to reach me **priyanshinegi11@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing](https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing)
@@ -63,6 +77,7 @@ Here are some ideas to get you started:
 
 <!--
 ## 📊 GitHub Stats:
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PriyanshiNegi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshiNegi01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiNegi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
