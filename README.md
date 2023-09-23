@@ -73,10 +73,13 @@ Here are some ideas to get you started:
 </p> 
 
 <!-- ## 📊 GitHub Stats: -->
+
+<!--
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshiNegi01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=PriyanshiNegi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiNegi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 ## 🌐 Connect with me:
 
