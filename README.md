@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Alexa Skills** and **DSA**
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Tableau** and **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
