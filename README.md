@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 I'm a "**CSE with specialization in Big Data Analytics**" undergraduate at SRMIST
 
-- 🔭 I’m currently working on **Alexa Skills** and **DSA**
+- 🔭 I’m currently working on **Data Visualization** and **DSA**
 
 - 🌱 I’m currently learning **Tableau** and **Machine Learning**
 
