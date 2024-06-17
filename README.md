@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h4 align="center">✨ Aspiring Data Analyst ✨</h4>
 -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1000&color=AE24BD&center=true&width=435&lines=Aspiring+Data+Analyst+%E2%9C%A8;Embracing+challenges+as+opportunities+%F0%9F%95%8A%EF%B8%8F;Always+a+learner+%F0%9F%92%BB;Dedicated+to+continuous+growth+%F0%9F%93%88" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=C632BC&center=true&random=false&width=435&lines=Data+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Dedicated+to+continuous+growth+%F0%9F%93%88;Embracing+challenges+as+opportunities+%E2%9C%A8;Lifelong+learner+%F0%9F%8E%AF" alt="Typing SVG" /></a>
 </p>
 
 <!-- ## 💫 About Me: -->
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Tableau** and **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **PowerBI**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"><img/> -->
 <!--   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"> -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
 <!--   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"><img/> -->
 <!--   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img/> -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img/>
