@@ -84,13 +84,15 @@ Here are some ideas to get you started:
 ## 🌐 Connect with me:
 
 <a href="https://linkedin.com/in/priyanshi-negi-6441461ab" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://x.com/PriyanshiNegi01" target="_blank">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://leetcode.com/PriyanshiNegi01" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
 </a>
 
 <!-- <a href="https://github.com/PriyanshiNegi01" target="_blank">
