@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="Coder GIF" height=150 width=210 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-- 👩‍🎓 I'm a "**CSE with specialization in Big Data Analytics**" undergraduate at SRMIST
+- 🎓 I'm a "**CSE with specialization in Big Data Analytics**" undergraduate at SRMIST
 
-- 🔭 I’m currently working on **DSA**
+- 👩‍💻 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Machine Learning** and **PowerBI**
+- 💻 I’m currently learning **Machine Learning** and **PowerBI**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
