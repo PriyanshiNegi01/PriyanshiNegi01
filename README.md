@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Priyanshi Negi</h1>
+<!--<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Priyanshi Negi</h1>-->
+
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/priyanshinegi01/" target="_blank" rel="noopener noreferrer">Priyanshi Negi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h1>
 <!--
 <h4 align="center">✨ Aspiring Data Analyst ✨</h4>
 -->
