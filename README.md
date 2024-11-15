@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with me:
 
-<a href="https://linkedin.com/in/priyanshi-negi-6441461ab" target="_blank">
+<a href="https://linkedin.com/in/priyanshinegi01" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
