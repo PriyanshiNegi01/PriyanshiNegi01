@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 - 🎓 I'm a "**CSE with specialization in Big Data Analytics**" undergraduate at SRMIST
 
-- 👩‍💻 I’m currently working on **Brain Tumor Classification** project
+- 👩‍💻 I’m currently working on a **Power BI** project
 
-- 💻 I’m currently learning **Machine Learning** and **PowerBI**
+- 💻 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
