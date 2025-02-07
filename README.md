@@ -34,13 +34,21 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="Coder GIF" height=150 width=210 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-- 🎓 I'm a "**CSE with specialization in Big Data Analytics**" undergraduate at SRMIST
+- 🎓 Final year "**CSE (Big Data Analytics)**" undergraduate at SRMIST
 
+- 👩‍💻 Currently working on a **Power BI** project, exploring data visualization & business intelligence
+
+- 🛠 Learning new tools & technologies for data analysis and machine learning
+
+- 💻 Open to collaborating on Data Science & AI projects to solve real-world problems
+
+<!--
 - 👩‍💻 I’m currently working on a **Power BI** project
 
 - 💻 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
+-->
 
 <!--
 - 📫 How to reach me **priyanshinegi11@gmail.com**
