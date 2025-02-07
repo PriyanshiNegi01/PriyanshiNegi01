@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="Coder GIF" height=150 width=210 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-- 🎓 Final year "**CSE (Big Data Analytics)**" undergraduate at SRMIST
+- 🎓 Final year "**B.Tech CSE (Big Data Analytics)**" undergraduate at SRMIST
 
 - 👩‍💻 Currently working on a **Power BI** project, exploring data visualization & business intelligence
 
