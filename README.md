@@ -33,15 +33,15 @@
 -->
 <img align="right" alt="Coder GIF" height=150 width=210 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-🎓 Final year "**B.Tech CSE (Big Data Analytics)**" undergraduate at SRMIST
+🎓 Final year "**B.Tech CSE (Big Data Analytics)**" undergraduate at SRMIST.
 
-👩‍💻 Currently working on a **Power BI** project, exploring data visualization & business intelligence
+👩‍💻 Currently working on a **Power BI** project, exploring data visualization & business intelligence.
 
-🛠 Learning new tools & technologies for data analysis and machine learning
+🛠 Learning new tools & technologies for **data analysis** and **Machine Learning**.
 
-✍️ I also write tech articles on Medium and contribute to LinkedIn collaborative articles.
+✍️ I also write tech articles on **Medium** and contribute to LinkedIn collaborative articles.
 
-💻 Open to collaborating on Data Science & AI projects to solve real-world problems
+💻 Open to collaborating on **Data Science & AI** projects to solve real-world problems.
 
 <!--
 - 👩‍💻 I’m currently working on a **Power BI** project, exploring data visualization & business intelligence
@@ -134,9 +134,6 @@
 
 </div>
 
-<!-- <a href="https://github.com/PriyanshiNegi01" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  -->
 ---
 
 <div align="center">
