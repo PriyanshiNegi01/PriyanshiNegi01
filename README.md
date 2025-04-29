@@ -26,34 +26,23 @@
 <!-- ## 💫 About Me: -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me:
 
-<!--
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
--->
-<img align="right" alt="Coder GIF" height=150 width=210 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
+<!-- GIF's original height=250, width=350 -->
+<img align="right" alt="Coder GIF" height=180 width=250 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
 🎓 Final year "**B.Tech CSE (Big Data Analytics)**" undergraduate at SRMIST.
 
 👩‍💻 Currently working on a **Power BI** project, exploring data visualization & business intelligence.
 
-🛠 Learning new tools & technologies for **data analysis** and **Machine Learning**.
+💻 Learning new tools & technologies for **data analysis** and **Machine Learning**.
 
 ✍️ I also write tech articles on **Medium** and contribute to LinkedIn collaborative articles.
 
-💻 Open to collaborating on **Data Science & AI** projects to solve real-world problems.
+🤝 Open to collaborating on **Data Science & AI** projects to solve real-world problems.
 
 <!--
-- 👩‍💻 I’m currently working on a **Power BI** project, exploring data visualization & business intelligence
-
-- 💻 I’m currently learning new tools & technologies for data analysis and machine learning
-
-- 👯 I’m looking to collaborate on **Data Science & AI projects** to solve real-world problems
--->
-
-<!--
-- 📫 How to reach me **priyanshinegi11@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing](https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing)
+👩‍💼 Pronouns: she/her
+📫 How to reach me **priyanshinegi11@gmail.com**
+📄 Know about my experiences [https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing](https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing)
 -->
 ## 💻 Tech Stack:
 
