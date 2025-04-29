@@ -108,6 +108,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiNegi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
+## 📜 Professional Certifications
+- Microsoft Certified: Power BI Data Analyst Associate (May 2024)
+
 ## 🎨 Portfolio:
 🔗 **[Check out my portfolio website](https://priyanshi-negi.vercel.app/)**
 
