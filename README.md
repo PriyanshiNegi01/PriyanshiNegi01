@@ -29,7 +29,7 @@
 <!-- GIF's original height=250, width=350 -->
 <img align="right" alt="Coder GIF" height=180 width=250 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-🎓 "**B.Tech in CSE (Big Data Analytics)**" from SRMIST, Chennai.
+🎓 **B.Tech in CSE (Big Data Analytics)** from SRMIST, Chennai.
 
 👩‍💻 Currently working on a **Power BI** project, exploring data visualization & business intelligence.
 
