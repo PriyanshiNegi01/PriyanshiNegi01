@@ -44,9 +44,12 @@
 📫 How to reach me **priyanshinegi11@gmail.com**
 📄 Know about my experiences [https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing](https://drive.google.com/file/d/1R8u8gaoMykzHjwMvaP6qDJjIJRDnmmvB/view?usp=sharing)
 -->
+
+---
+
 ## 💻 Tech Stack:
 
-### Programming Languages
+### Programming & Query Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,20 +61,44 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-46b5b1?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25C2C?style=for-the-badge&logo=apachespark&logoColor=white)
 <!--
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 -->
+
+### Databases
+
+#### Relational Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### NoSQL Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 <!--
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 -->
+
+### Other Skills
+
+#### Version Control & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Design & Productivity
+![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!--
 <p align="center">
@@ -112,11 +139,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiNegi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
+---
+
 ## 📜 Professional Certifications
 - Microsoft Certified: Power BI Data Analyst Associate (May 2024)
 
+---
+
 ## 🎨 Portfolio:
 🔗 **[Check out my portfolio website](https://priyanshi-negi.vercel.app/)**
+
+---
 
 ## 🌐 Connect with me:
 
@@ -138,6 +171,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriyanshiNegi01&color=f4c2c2)  
 
-📌 *Last updated: March 2025*  
+📌 *Last updated: June 2025*  
 
 </div>
