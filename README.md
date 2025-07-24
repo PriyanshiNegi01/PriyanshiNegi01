@@ -33,9 +33,9 @@
 
 👩‍💻 Currently working on a **Power BI** project, exploring data visualization & business intelligence.
 
-💻 Learning new tools & technologies for **data analysis** and **Machine Learning**.
+💻 Continuously learning new tools & technologies for all things **DATA**.
 
-✍️ I also write tech articles on **Medium** and contribute to LinkedIn collaborative articles.
+✍️ I write tech articles on **Medium** and contribute to LinkedIn collaborative articles.
 
 🤝 Open to collaborating on **Data Science & AI** projects to solve real-world problems.
 
