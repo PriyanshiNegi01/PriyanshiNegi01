@@ -171,6 +171,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriyanshiNegi01&color=f4c2c2)  
 
-📌 *Last updated: June 2025*  
+📌 *Last updated: July 2025*  
 
 </div>
