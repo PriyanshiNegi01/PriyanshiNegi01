@@ -33,12 +33,12 @@
 
 🎓 **B.Tech in CSE (Big Data Analytics)** from SRM Institute of Science and Technology, Chennai. 
 
-💻 Passionate about exploring **Data Engineering, Data Science, and AI**, and continuously learning emerging technologies like **Generative AI** and **Agentic AI**.
+💻 Passionate about exploring **Data Engineering, Data Science, & AI**. Continuously learning emerging technologies like **Gen AI** and **Agentic AI**.
 <!-- 💻 Continuously learning new tools & technologies for all things **DATA**.-->
 
 ✍️ I write **tech articles on Medium** and contribute to **LinkedIn collaborative articles** to share insights on data, AI, and cloud.  
 
-🤝 Open to collaborating on impactful **Data Engineering, AI, and Machine Learning** projects that solve real-world problems.
+🤝 Open to collaborating on impactful **Data Engineering, AI, and ML** projects that solve real-world problems.
 
 
 <!--
