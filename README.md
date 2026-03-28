@@ -24,10 +24,10 @@
 </p>
 
 <!-- ## 💫 About Me: -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About Me:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About Me
 
 <!-- GIF's original height=250, width=350 -->
-<img align="right" alt="Coder GIF" height=180 width=250 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
 👩‍💻 **GCP Data Engineer** working with **Cloud Composer, Apache Airflow, and BigQuery** to build scalable data pipelines.
 
