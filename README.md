@@ -90,7 +90,7 @@
 
 ---
 
-### ☁️ Cloud, Orchestration & BI Tools  
+### ☁️ Cloud & Orchestration 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloud Composer](https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
