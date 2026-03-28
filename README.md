@@ -172,10 +172,10 @@
 
 <div align="center">
 
-✨ **Crafted with passion by** [Priyanshi Negi](https://github.com/PriyanshiNegi01) ✨  
+✨ **Crafted with passion by** [Priyanshi Negi](https://www.linkedin.com/in/priyanshinegi01/) ✨  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriyanshiNegi01&color=f4c2c2)  
 
-📌 *Last updated: November 2025*  
+📌 *Last updated: March 2026*  
 
 </div>
