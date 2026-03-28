@@ -29,16 +29,16 @@
 <!-- GIF's original height=250, width=350 -->
 <img align="right" alt="Coder GIF" height=180 width=250 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-👩‍💻 Currently working as a **GCP Data Engineer**, gaining hands-on experience with **Cloud Composer, Apache Airflow, and BigQuery** to build scalable data pipelines.
+👩‍💻 **GCP Data Engineer** working with **Cloud Composer, Apache Airflow, and BigQuery** to build scalable data pipelines.
 
-🎓 **B.Tech in CSE (Big Data Analytics)** from SRM Institute of Science and Technology, Chennai. 
+🎓 **B.Tech in CSE (Big Data Analytics)** from SRM Institute of Science and Technology, Chennai.
 
-💻 Passionate about exploring **Data Engineering, Data Science, & AI**. Continuously learning emerging technologies like **Gen AI** and **Agentic AI**.
+☁️ Exploring **Data Engineering, AI & GenAI**.
 <!-- 💻 Continuously learning new tools & technologies for all things **DATA**.-->
 
-✍️ I write **tech articles on Medium** and contribute to **LinkedIn collaborative articles** to share insights on data, AI, and cloud.  
+✍️ Sharing learnings on **Medium & LinkedIn**.
 
-🤝 Open to collaborating on impactful **Data Engineering, AI, and ML** projects that solve real-world problems.
+🤝 Open to **Data Engineering & AI collaborations**.
 
 
 <!--
